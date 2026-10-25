@@ -6,7 +6,9 @@
 
 An Excel analysis of India's **Consumer Price Index (CPI)**: what drives the basket, how inflation moved through COVID-19 and the 2022 price shock, which food items swung the most, and whether crude oil prices pass through to consumer prices. It uses official All-India CPI data (base year 2012 = 100) for **23 sub-categories** across rural, urban and combined sectors.
 
-**📊 [Download the Excel workbook](CPI_Project.xlsx)** · **📄 [One-page project summary (PDF)](CPI_Project_Summary.pdf)**
+**Headline:** Inflation peaked at 6.62% in 2022 and eased to 3.18% in 2023. After COVID, transport rose most (0.29% → 0.66% a month), and crude oil's monthly link to CPI is weak (0.13 at most).
+
+**📊 [Download the Excel workbook](CPI_Project.xlsx)** · **📄 [One-page project summary (PDF)](CPI_Project_Summary.pdf)** · **[Interactive case file](https://parthdhawan921-ops.github.io/Parth_Personal/#cpi)**
 
 ![Year-over-year CPI inflation, 2018–2023](images/02_yoy_inflation.png)
 
